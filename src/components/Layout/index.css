@@ -1,0 +1,29 @@
+.layout{
+    width:100%;
+    height:100vh;
+    /* background-color: cyan; */
+    overflow-x: hidden;
+}
+.inner-layout{
+    /* background-color:#f47b34 ; */
+    width: calc(100% - 300px);
+    float: right;
+    padding:10px;
+    text-align: left;
+    padding-top:0px;
+}
+.tech{
+    background-color:aliceblue
+}
+.contact{
+    background-color:grey;
+}
+title{
+    display:block;
+    margin:5px;
+    font-size:48px;
+    background-color:#f47b34;
+}
+h1{
+    margin:0px;
+}

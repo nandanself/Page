@@ -1,0 +1,13 @@
+.profile-pic{
+    width:150px;
+    height:150px;
+    background-color:blue;
+    border:1px;
+    border-radius:50%;
+    display:inline-block;
+    overflow: hidden;
+    margin-bottom:10px;
+}
+img{
+    height:inherit;
+}

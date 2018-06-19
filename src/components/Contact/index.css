@@ -1,0 +1,58 @@
+form{
+width:100%;
+height:auto;
+padding:10px;
+box-sizing:content-box;
+display: inline-block;
+text-align:center;
+}
+input{
+width: 250px;
+height: 48px;
+padding:5px;
+border-radius:5px;
+margin-bottom:10px;
+margin-right:10px;
+outline:0px;
+border:0px;
+display:inline-block;
+}
+textarea{
+    width: 799px;
+    
+    padding:5px;
+    border-radius:5px;
+    margin-bottom:10px;
+    outline:0px;
+    border:0px;
+}
+button{
+    width:150px;
+    height:48px;
+    border-radius:5px;
+    text-align:center;
+    padding:5px;
+    background-color: #ffffff;
+    float:right;
+    outline:0px;
+    border:0px;
+}
+.form-left{
+    display:inline-block;
+    
+    
+    width:100%;
+}
+.form-right{
+    
+    width:100%;
+}
+.form-wrapper{
+    height: auto;
+    width: auto;
+    display:inline-block;
+    text-align:center;
+    
+    display:inline-block;
+    
+}
